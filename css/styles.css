@@ -1,0 +1,14 @@
+#barContainer {
+    border:1px solid red;
+    height: 20px;
+    background: orange;
+}
+
+.blocks,.stacks{
+    border-right: 1px solid red;
+    height: 20px;float: left;
+}
+.stacks{
+    float: none;
+    border: 1px solid red;
+}
